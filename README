@@ -4,7 +4,9 @@ SBUID; 108 734 720
 
 file includes:
 	mandelbrot.py
-
+	mandelbrot.png (with N_max = 300)
+	markov_chain.py
+	
 To run these files:
 do python3 _file_name_ on command line
 
