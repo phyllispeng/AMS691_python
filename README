@@ -3,8 +3,9 @@ Name: Yuanyuan Peng
 SBUID; 108 734 720
 
 file includes:
-	mandelbrot.py
-	mandelbrot.png (with N_max = 300)
+	mandelbrot.py 
+	mandelbrot.png  (with N_max = 300) 
+					if want to change the N_max by eidit the python file, save then run it again through command line
 	markov_chain.py
 	
 To run these files:
